@@ -1,0 +1,14 @@
+check_id,asset_id,checked_at,algorithm,digest,operator
+CK-001,AR-101,2105-01-03T09:00:00Z,SHA-256,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,Mira
+CK-002,AR-101,2105-01-07T11:30:00Z,SHA-256,9999999999999999999999999999999999999999999999999999999999999999,Noor
+CK-003,AR-102,2105-01-04T10:00:00Z,SHA-256,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,Ivo
+CK-004,AR-102,2105-01-08T10:00:00Z,SHA-256,bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb,Ivo
+CK-005,AR-103,2105-01-05T08:00:00Z,SHA-1,cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc,Uma
+CK-006,AR-999,2105-01-05T09:00:00Z,SHA-256,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,Uma
+CK-007,AR-104,2105-01-02T15:00:00Z,SHA-256,7777777777777777777777777777777777777777777777777777777777777777,Noor
+CK-008,AR-104,2105-01-09T15:00:00Z,SHA-256,dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd,Noor
+CK-009,AR-105,2105-01-06T12:00:00Z,SHA-256,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Mira
+CK-009,AR-105,2105-01-07T12:00:00Z,SHA-256,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Mira
+CK-010,AR-106,2105-01-08T12:00:00Z,SHA-256,ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+CK-011,AR-103,2105-01-10T08:00:00Z,SHA-256,3333333333333333333333333333333333333333333333333333333333333333,Uma
+CK-012,AR-105,2105-01-11T08:00:00Z,SHA-256,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,Ivo
