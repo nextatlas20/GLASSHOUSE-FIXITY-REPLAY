@@ -1,0 +1,7 @@
+asset_id	title	format	valid_checks	matching_checks	mismatching_checks	latest_check_id	latest_checked_at	latest_result	status
+AR-101	Harbor oral history	WAV	2	1	1	CK-002	2105-01-07T11:30:00Z	MISMATCH	REVIEW
+AR-103	Council minutes 1974	PDF	1	0	1	CK-011	2105-01-10T08:00:00Z	MISMATCH	REVIEW
+AR-106	Market day interview	FLAC	0	0	0				MISSING
+AR-102	Canal survey map	TIFF	2	2	0	CK-004	2105-01-08T10:00:00Z	MATCH	VERIFIED
+AR-104	Foundry interior photograph	TIFF	2	1	1	CK-008	2105-01-09T15:00:00Z	MATCH	VERIFIED
+AR-105	Quartet manuscript	PDF	1	1	0	CK-012	2105-01-11T08:00:00Z	MATCH	VERIFIED
